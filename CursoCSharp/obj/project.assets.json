@@ -688,23 +688,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\rpereira\\.nuget\\packages\\": {},
+    "C:\\Users\\rodri\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rpereira\\source\\repos\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj",
+      "projectUniqueName": "C:\\project\\dotnet\\cod3r\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj",
       "projectName": "CursoCSharp",
-      "projectPath": "C:\\Users\\rpereira\\source\\repos\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj",
-      "packagesPath": "C:\\Users\\rpereira\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rpereira\\source\\repos\\CursoCSharp\\CursoCSharp\\obj\\",
+      "projectPath": "C:\\project\\dotnet\\cod3r\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj",
+      "packagesPath": "C:\\Users\\rodri\\.nuget\\packages\\",
+      "outputPath": "C:\\project\\dotnet\\cod3r\\CursoCSharp\\CursoCSharp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\rpereira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\rodri\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
